@@ -28,8 +28,13 @@
 | **[Czysty Cleaners](https://github.com/PTM-Ngelale/czysty)** | Laundry and cleaning company with online and WhatsApp booking | [visit](https://czysty.vercel.app) |
 | **[Creek'n'Greek × Greek Imperial](https://github.com/PTM-Ngelale/creekngreek)** | Luxury resort, lounge and nightclub site | [visit](https://creekngreek.vercel.app) |
 | **[Sodienye Wariso](https://github.com/PTM-Ngelale/sodi-wariso)** | Portfolio for a graphic and brand designer | [visit](https://sodi-portfolio.vercel.app) |
+| **Charlie's Grill** | Grilled catfish and lounge spot | [visit](https://charlies-grill-ashy.vercel.app) |
+| **365 Laundry & Logistics** | Laundry pickup and delivery service | [visit](https://365-laundry-alpha.vercel.app) |
+| **Jossy Contracting** | Fencing, landscaping and drywall company in Calgary, Canada | [visit](https://jossy-contracting.vercel.app) |
+| **K-Lakay Global** | Oil and gas construction and procurement company | [visit](https://klakaygl.vercel.app) |
+| **NPC Fest** | Festival ticketing site (launching soon) | [visit](https://npc-fest.vercel.app) |
 
-All built with Next.js and TypeScript, deployed on Vercel.
+All built with Next.js and TypeScript, deployed on Vercel. Client code stays private; the live sites speak for themselves.
 
 ### What I'm working on now
 
