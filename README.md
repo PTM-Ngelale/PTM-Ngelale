@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Micah 👋</h1>
+<h1 align="center">Hi, I'm Precious 👋</h1>
 <p align="center">
   I build websites, apps and AI agents that help real businesses sell more and save time.<br/>
   Founder of <a href="https://nanotekai.com"><b>NanoTek</b></a>
