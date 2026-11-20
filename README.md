@@ -39,7 +39,11 @@ All built with Next.js and TypeScript, deployed on Vercel. Client code stays pri
 ### What I'm working on now
 
 - 🎮 A fast word-chain party game for 2 to 5 friends (name not final) · [preview](https://yappa-three.vercel.app)
-- 🤖 AI agents for small businesses at NanoTek
+- 🤖 **GRIT Quad AI sales agent.** Answers customers on WhatsApp, qualifies leads and logs bookings, with a staff dashboard to watch chats and take over from the AI
+- 🌦️ **NanoTek Climate Alerts.** Turns a location into a plain-language climate-risk alert on WhatsApp, in the subscriber's language, with region packs per country
+- 🎬 **NanoTek Clip Lab.** Long video in, ready-to-post vertical clips out (transcribe, pick the best moments, cut)
+
+<sub>These are private repos. Happy to walk through the code on a call.</sub>
 
 ### Tech I use
 
